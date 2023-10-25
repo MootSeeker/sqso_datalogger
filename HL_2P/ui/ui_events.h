@@ -10,7 +10,12 @@
 extern "C" {
 #endif
 
-void PwrDisable(lv_event_t * e);
+void change_value_probe(lv_event_t * e);
+void lv_btn_pwr(lv_event_t * e);
+void clear_memory(lv_event_t * e);
+void showGraph(lv_event_t * e);
+void start_log(lv_event_t * e);
+void stop_Log(lv_event_t * e);
 
 #ifdef __cplusplus
 } /*extern "C"*/

@@ -10,3 +10,19 @@ def change_value_probe(event_struct):
 def lv_btn_pwr(event_struct):
     return
 
+
+def showGraph(event_struct):
+    return
+
+
+def start_log(event_struct):
+    return
+
+
+def stop_Log(event_struct):
+    return
+
+
+def clear_memory(event_struct):
+    return
+
