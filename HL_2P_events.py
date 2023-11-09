@@ -26,3 +26,11 @@ def stop_Log(event_struct):
 def clear_memory(event_struct):
     return
 
+
+def disp_show_logo(event_struct):
+    return
+
+
+def ui_show_probe(event_struct):
+    return
+
